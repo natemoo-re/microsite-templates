@@ -7,7 +7,7 @@ Microsite is a next-generation static site generator.
 To start a new project using Microsite, clone this repo to a new directory:
 
 ```
-npm init microsite
+npm init microsite <project>
 ```
 
 To build the site for production, run:
