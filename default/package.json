@@ -5,7 +5,7 @@
     "build": "microsite build"
   },
   "devDependencies": {
-    "microsite": "0.6.11",
+    "microsite": "0.6.14",
     "husky": "^4.3.0",
     "lint-staged": "^10.4.2",
     "prettier": "^2.1.2",
