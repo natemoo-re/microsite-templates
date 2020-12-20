@@ -1,5 +1,5 @@
 # Microsite Templates
 
 ```
-npm init microsite project-name
+npm init microsite <project-name>
 ```
